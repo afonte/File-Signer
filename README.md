@@ -1,6 +1,8 @@
 # File-Signer
 Tool to sign .zip files using SHA-256 algorithm.
 
+You need to install Java JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
 Steps to sign a file:
 
 1- Copy the sign-zip.bat file in the same folder where the zip is.
